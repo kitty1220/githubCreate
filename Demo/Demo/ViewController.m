@@ -20,6 +20,7 @@
     NSLog(@"ccccc");
     
     //创建分支
+    //切换都主分支master
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
